@@ -1,7 +1,7 @@
 .metadata/*
-CodingPractice/.classpath
-CodingPractice/.project
-CodingPractice/.settings
+*.classpath
+*.project
+*.settings
 /.metadata/
 /.recommenders/
-CodingPractice/.bin
+*..bin
